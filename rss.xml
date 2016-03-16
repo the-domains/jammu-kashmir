@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[jammu-kashmir]]></title>
         <description><![CDATA[jammu-kashmir]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/jammu-kashmir/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 23:41:23 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 16 Mar 2016 23:41:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/jammu-kashmir/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Sovereign State of Jammu and Kashmir </p>]]></description>
-            <link>undefined8f73adc4-f6bc-473c-817e-3f2edc31593c/index.html</link>
+            <link>https://thegrid.ai/jammu-kashmir/8f73adc4-f6bc-473c-817e-3f2edc31593c/index.html</link>
             <guid isPermaLink="false">8f73adc4-f6bc-473c-817e-3f2edc31593c</guid>
-            <pubDate>Wed, 16 Mar 2016 23:41:15 GMT</pubDate>
+            <pubDate>Wed, 16 Mar 2016 23:41:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
